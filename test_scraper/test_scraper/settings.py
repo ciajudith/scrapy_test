@@ -64,8 +64,8 @@ ROBOTSTXT_OBEY = True
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     'test_scraper.pipelines.BooksPipeline': 300,
-    'test_scraper.pipelines.SQLitePipeline': 400,
-
+    # 'test_scraper.pipelines.SQLitePipeline': 400,
+    # 'test_scraper.pipelines.MongoDBPipeline': 500,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

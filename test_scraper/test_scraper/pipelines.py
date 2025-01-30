@@ -8,12 +8,20 @@
 from itemadapter import ItemAdapter
 
 import sqlite3
+import pymongo
 
 class TestScraperPipeline:
     def process_item(self, item, spider):
         return item
 
 class BooksPipeline:
+    rating_map = {
+        "One": 1,
+        "Two": 2,
+        "Three": 3,
+        "Four": 4,
+        "Five": 5
+    }
     def process_item(self, item, spider):
         item["price"] = float(item["price"].replace("£", ""))
 
@@ -21,6 +29,7 @@ class BooksPipeline:
             item["availability"] = "Disponible"
         else:
             item["availability"] = "Rupture de stock"
+        item["rating"] = self.rating_map.get(item["rating"], 0)
         return item
 
 class SQLitePipeline:
@@ -47,3 +56,16 @@ class SQLitePipeline:
 
     def close_spider(self, spider):
         self.connection.close()
+
+class MongoDBPipeline:
+    def open_spider(self, spider):
+        self.client = pymongo.MongoClient("mongodb://localhost:27017/")
+        self.db = self.client["scrapy_data"]
+        self.collection = self.db["books"]
+
+    def process_item(self, item, spider):
+        self.collection.insert_one(dict(item))
+        return item
+
+    def close_spider(self, spider):
+        self.client.close()
