@@ -1,4 +1,4 @@
-# Scrapy settings for udemy_scraper project
+# Scrapy settings for test_scraper project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,14 +7,14 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = "udemy_scraper"
+BOT_NAME = "test_scraper"
 
-SPIDER_MODULES = ["udemy_scraper.spiders"]
-NEWSPIDER_MODULE = "udemy_scraper.spiders"
+SPIDER_MODULES = ["test_scraper.spiders"]
+NEWSPIDER_MODULE = "test_scraper.spiders"
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = "udemy_scraper (+http://www.yourdomain.com)"
+#USER_AGENT = "test_scraper (+http://www.yourdomain.com)"
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -45,13 +45,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    "udemy_scraper.middlewares.UdemyScraperSpiderMiddleware": 543,
+#    "test_scraper.middlewares.TestScraperSpiderMiddleware": 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    "udemy_scraper.middlewares.UdemyScraperDownloaderMiddleware": 543,
+#    "test_scraper.middlewares.TestScraperDownloaderMiddleware": 543,
 #}
 
 # Enable or disable extensions
@@ -63,7 +63,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    "udemy_scraper.pipelines.UdemyScraperPipeline": 300,
+#    "test_scraper.pipelines.TestScraperPipeline": 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
