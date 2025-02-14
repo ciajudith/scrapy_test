@@ -5,6 +5,10 @@ class BooksSpider(scrapy.Spider):
     start_urls = ["http://books.toscrape.com/"]
 
     def parse(self, response):
+        if response.status != 200:
+            self.logger.error(f"Erreur {response.status} - Impossible d'accéder à {response.url}")
+            return
+
         for book in response.css("article.product_pod"):
             yield {
                 "title": book.css("h3 a::attr(title)").get(),
