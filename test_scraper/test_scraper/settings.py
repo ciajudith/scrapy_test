@@ -65,9 +65,9 @@ ROBOTSTXT_OBEY = True
 ITEM_PIPELINES = {
     'test_scraper.pipelines.BooksPipeline': 300,
     # 'test_scraper.pipelines.XMLPipeline': 400,
-    'test_scraper.pipelines.CSVPipeline': 400,
+    # 'test_scraper.pipelines.CSVPipeline': 400,
     # 'test_scraper.pipelines.SQLitePipeline': 400,
-    # 'test_scraper.pipelines.MongoDBPipeline': 500,
+    'test_scraper.pipelines.MongoDBPipeline': 500,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

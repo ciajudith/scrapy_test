@@ -1,0 +1,6002 @@
+<books>
+  <book>
+    <title>A Light in the Attic</title>
+    <price>51.77</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Tipping the Velvet</title>
+    <price>53.74</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Soumission</title>
+    <price>50.1</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Sharp Objects</title>
+    <price>47.82</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Sapiens: A Brief History of Humankind</title>
+    <price>54.23</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Requiem Red</title>
+    <price>22.65</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Dirty Little Secrets of Getting Your Dream Job</title>
+    <price>33.34</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull</title>
+    <price>17.93</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics</title>
+    <price>22.6</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Black Maria</title>
+    <price>52.15</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Starving Hearts (Triangular Trade Trilogy, #1)</title>
+    <price>13.99</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Shakespeare's Sonnets</title>
+    <price>20.66</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Set Me Free</title>
+    <price>17.46</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)</title>
+    <price>52.29</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Rip it Up and Start Again</title>
+    <price>35.02</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991</title>
+    <price>57.25</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Olio</title>
+    <price>23.88</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Mesaerion: The Best Science Fiction Stories 1800-1849</title>
+    <price>37.59</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Libertarianism for Beginners</title>
+    <price>51.33</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>It's Only the Himalayas</title>
+    <price>45.17</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>In Her Wake</title>
+    <price>12.84</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>How Music Works</title>
+    <price>37.32</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More</title>
+    <price>30.52</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Chase Me (Paris Nights #2)</title>
+    <price>25.27</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Black Dust</title>
+    <price>34.53</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Birdsong: A Story in Pictures</title>
+    <price>54.64</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana</title>
+    <price>22.5</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Aladdin and His Wonderful Lamp</title>
+    <price>53.13</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Worlds Elsewhere: Journeys Around Shakespeare’s Globe</title>
+    <price>40.3</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Wall and Piece</title>
+    <price>44.18</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Four Agreements: A Practical Guide to Personal Freedom</title>
+    <price>17.66</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Five Love Languages: How to Express Heartfelt Commitment to Your Mate</title>
+    <price>31.05</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Elephant Tree</title>
+    <price>23.82</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Bear and the Piano</title>
+    <price>36.89</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Sophie's World</title>
+    <price>15.94</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Penny Maybe</title>
+    <price>33.29</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Maude (1883-1993):She Grew Up with the country</title>
+    <price>18.02</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>In a Dark, Dark Wood</title>
+    <price>19.63</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Behind Closed Doors</title>
+    <price>52.22</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>You can't bury them all: Poems</title>
+    <price>33.63</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Slow States of Collapse: Poems</title>
+    <price>57.31</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Reasons to Stay Alive</title>
+    <price>26.41</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Private Paris (Private #10)</title>
+    <price>47.61</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.</title>
+    <price>23.11</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Without Borders (Wanderlove #1)</title>
+    <price>45.07</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>When We Collided</title>
+    <price>31.77</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>We Love You, Charlie Freeman</title>
+    <price>50.27</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Untitled Collection: Sabbath Poems 2014</title>
+    <price>14.27</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness</title>
+    <price>44.18</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Unicorn Tracks</title>
+    <price>18.78</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink</title>
+    <price>25.52</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)</title>
+    <price>16.28</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity</title>
+    <price>31.12</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>This One Summer</title>
+    <price>19.49</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Thirst</title>
+    <price>17.27</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Torch Is Passed: A Harding Family Story</title>
+    <price>19.09</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Secret of Dreadwillow Carse</title>
+    <price>56.13</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!</title>
+    <price>56.41</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Past Never Ends</title>
+    <price>56.5</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Natural History of Us (The Fine Art of Pretending #2)</title>
+    <price>45.22</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Nameless City (The Nameless City #1)</title>
+    <price>38.16</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Murder That Never Was (Forensic Instincts #5)</title>
+    <price>54.11</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Most Perfect Thing: Inside (and Outside) a Bird's Egg</title>
+    <price>42.96</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy</title>
+    <price>23.89</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing</title>
+    <price>16.77</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer</title>
+    <price>20.59</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Gutsy Girl: Escapades for Your Life of Epic Adventure</title>
+    <price>37.13</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Electric Pencil: Drawings from Inside State Hospital No. 3</title>
+    <price>56.06</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Death of Humanity: and the Case for Life</title>
+    <price>58.11</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life</title>
+    <price>49.05</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Art Forger</title>
+    <price>40.76</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind</title>
+    <price>19.73</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution</title>
+    <price>32.24</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up</title>
+    <price>41.83</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Soul Reader</title>
+    <price>39.58</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Security</title>
+    <price>39.25</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Saga, Volume 6 (Saga (Collected Editions) #6)</title>
+    <price>25.02</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Saga, Volume 5 (Saga (Collected Editions) #5)</title>
+    <price>51.04</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Reskilling America: Learning to Labor in the Twenty-First Century</title>
+    <price>19.83</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)</title>
+    <price>50.4</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)</title>
+    <price>13.61</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Princess Between Worlds (Wide-Awake Princess #5)</title>
+    <price>13.34</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Pop Gun War, Volume 1: Gift</title>
+    <price>18.97</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics</title>
+    <price>36.28</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Patience</title>
+    <price>10.16</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)</title>
+    <price>15.44</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>orange: The Complete Collection 1 (orange: The Complete Collection #1)</title>
+    <price>48.41</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Online Marketing for Busy Authors: A Step-By-Step Guide</title>
+    <price>46.35</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>On a Midnight Clear</title>
+    <price>14.07</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Obsidian (Lux #1)</title>
+    <price>14.86</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>My Paris Kitchen: Recipes and Stories</title>
+    <price>33.37</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Masks and Shadows</title>
+    <price>56.4</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed</title>
+    <price>14.02</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)</title>
+    <price>46.91</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)</title>
+    <price>45.61</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)</title>
+    <price>19.92</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Layered: Baking, Building, and Styling Spectacular Cakes</title>
+    <price>40.11</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)</title>
+    <price>53.9</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Join</title>
+    <price>35.67</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>In the Country We Love: My Family Divided</title>
+    <price>22.0</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine</title>
+    <price>57.36</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)</title>
+    <price>29.17</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>I am a Hero Omnibus Volume 1</title>
+    <price>54.63</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>How to Be Miserable: 40 Strategies You Already Use</title>
+    <price>46.03</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Her Backup Boyfriend (The Sorensen Family #1)</title>
+    <price>33.97</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Giant Days, Vol. 2 (Giant Days #5-8)</title>
+    <price>22.11</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton</title>
+    <price>29.69</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>First and First (Five Boroughs #3)</title>
+    <price>15.97</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Fifty Shades Darker (Fifty Shades #2)</title>
+    <price>21.96</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Everydata: The Misinformation Hidden in the Little Data You Consume Every Day</title>
+    <price>54.35</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master</title>
+    <price>37.97</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Danganronpa Volume 1</title>
+    <price>51.99</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Crown of Midnight (Throne of Glass #2)</title>
+    <price>43.29</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Codename Baboushka, Volume 1: The Conclave of Death</title>
+    <price>36.72</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Camp Midnight</title>
+    <price>17.08</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Call the Nurse: True Stories of a Country Nurse on a Scottish Isle</title>
+    <price>29.14</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Burning</title>
+    <price>28.81</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Bossypants</title>
+    <price>49.46</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))</title>
+    <price>37.92</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)</title>
+    <price>28.09</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Algorithms to Live By: The Computer Science of Human Decisions</title>
+    <price>30.81</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>A World of Flavor: Your Gluten Free Passport</title>
+    <price>42.95</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations</title>
+    <price>56.76</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>A Murder in Time</title>
+    <price>16.64</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>A Flight of Arrows (The Pathfinders #2)</title>
+    <price>55.53</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>A Fierce and Subtle Poison</title>
+    <price>28.13</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>A Court of Thorns and Roses (A Court of Thorns and Roses #1)</title>
+    <price>52.37</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>(Un)Qualified: How God Uses Broken People to Do Big Things</title>
+    <price>54.0</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>You Are What You Love: The Spiritual Power of Habit</title>
+    <price>21.87</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)</title>
+    <price>43.3</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Tuesday Nights in 1980</title>
+    <price>21.04</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Tracing Numbers on a Train</title>
+    <price>41.6</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Throne of Glass (Throne of Glass #1)</title>
+    <price>35.07</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History</title>
+    <price>59.64</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Thirteen Reasons Why</title>
+    <price>52.72</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”</title>
+    <price>58.08</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Wedding Dress</title>
+    <price>24.12</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Vacationers</title>
+    <price>42.15</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Third Wave: An Entrepreneur’s Vision of the Future</title>
+    <price>12.61</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Stranger</title>
+    <price>17.44</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Shadow Hero (The Shadow Hero)</title>
+    <price>33.14</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Secret (The Secret #1)</title>
+    <price>27.37</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Regional Office Is Under Attack!</title>
+    <price>51.36</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Psychopath Test: A Journey Through the Madness Industry</title>
+    <price>36.0</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Project</title>
+    <price>10.65</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Power of Now: A Guide to Spiritual Enlightenment</title>
+    <price>43.54</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Omnivore's Dilemma: A Natural History of Four Meals</title>
+    <price>38.21</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us</title>
+    <price>37.34</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Murder of Roger Ackroyd (Hercule Poirot #4)</title>
+    <price>44.1</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Mistake (Off-Campus #2)</title>
+    <price>43.29</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Matchmaker's Playbook (Wingmen Inc. #1)</title>
+    <price>55.85</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking</title>
+    <price>37.6</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Long Shadow of Small Ghosts: Murder and Memory in an American City</title>
+    <price>10.97</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Kite Runner</title>
+    <price>41.82</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The House by the Lake</title>
+    <price>36.95</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Glittering Court (The Glittering Court #1)</title>
+    <price>44.28</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Girl on the Train</title>
+    <price>55.02</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Genius of Birds</title>
+    <price>17.24</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Emerald Mystery</title>
+    <price>23.15</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First</title>
+    <price>41.25</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.</title>
+    <price>32.0</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Artist's Way: A Spiritual Path to Higher Creativity</title>
+    <price>38.49</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Art of War</title>
+    <price>33.34</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Argonauts</title>
+    <price>10.93</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job</title>
+    <price>27.55</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Suddenly in Love (Lake Haven #1)</title>
+    <price>55.99</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Something More Than This</title>
+    <price>16.24</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Soft Apocalypse</title>
+    <price>26.12</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>So You've Been Publicly Shamed</title>
+    <price>12.23</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Shoe Dog: A Memoir by the Creator of NIKE</title>
+    <price>23.99</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Shobu Samurai, Project Aryoku (#3)</title>
+    <price>29.06</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Secrets and Lace (Fatal Hearts #1)</title>
+    <price>20.27</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Scarlett Epstein Hates It Here</title>
+    <price>43.55</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Romero and Juliet: A Tragic Tale of Love and Zombies</title>
+    <price>36.94</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Redeeming Love</title>
+    <price>20.47</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form</title>
+    <price>41.06</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Poems That Make Grown Women Cry</title>
+    <price>14.19</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Nightingale, Sing</title>
+    <price>38.28</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Night Sky with Exit Wounds</title>
+    <price>41.05</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Mrs. Houdini</title>
+    <price>30.25</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Modern Romance</title>
+    <price>28.26</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children #1)</title>
+    <price>10.76</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Louisa: The Extraordinary Life of Mrs. Adams</title>
+    <price>16.85</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Little Red</title>
+    <price>13.47</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Library of Souls (Miss Peregrine’s Peculiar Children #3)</title>
+    <price>48.56</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Large Print Heart of the Pride</title>
+    <price>19.15</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>I Had a Nice Time And Other Lies...: How to find love & sh*t like that</title>
+    <price>57.36</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Hollow City (Miss Peregrine’s Peculiar Children #2)</title>
+    <price>42.98</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Grumbles</title>
+    <price>22.16</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond</title>
+    <price>49.43</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Frostbite (Vampire Academy #2)</title>
+    <price>29.99</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Follow You Home</title>
+    <price>21.36</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>First Steps for New Christians (Print Edition)</title>
+    <price>29.0</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Finders Keepers (Bill Hodges Trilogy #2)</title>
+    <price>53.53</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Fables, Vol. 1: Legends in Exile (Fables #1)</title>
+    <price>41.62</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Eureka Trivia 6.0</title>
+    <price>54.59</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Drive: The Surprising Truth About What Motivates Us</title>
+    <price>34.95</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Done Rubbed Out (Reightman & Bailey #1)</title>
+    <price>37.72</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Doing It Over (Most Likely To #1)</title>
+    <price>35.61</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals</title>
+    <price>42.16</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Dark Notes</title>
+    <price>19.19</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead</title>
+    <price>19.43</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Close to You</title>
+    <price>49.46</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Chasing Heaven: What Dying Taught Me About Living</title>
+    <price>37.8</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Big Magic: Creative Living Beyond Fear</title>
+    <price>30.8</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Becoming Wise: An Inquiry into the Mystery and Art of Living</title>
+    <price>27.43</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Beauty Restored (Riley Family Legacy Novellas #3)</title>
+    <price>11.11</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Batman: The Long Halloween (Batman)</title>
+    <price>36.5</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Batman: The Dark Knight Returns (Batman)</title>
+    <price>15.38</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Ayumi's Violin</title>
+    <price>15.48</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Anonymous</title>
+    <price>46.82</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Amy Meets the Saints and Sages</title>
+    <price>18.46</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Amid the Chaos</title>
+    <price>36.58</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Amatus</title>
+    <price>50.54</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Agnostic: A Spirited Manifesto</title>
+    <price>12.51</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Zealot: The Life and Times of Jesus of Nazareth</title>
+    <price>24.7</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>You (You #1)</title>
+    <price>43.61</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)</title>
+    <price>37.34</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Wild Swans</title>
+    <price>14.36</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond</title>
+    <price>52.65</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity</title>
+    <price>38.2</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>What's It Like in Space?: Stories from Astronauts Who've Been There</title>
+    <price>19.6</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)</title>
+    <price>53.9</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Walt Disney's Alice in Wonderland</title>
+    <price>12.96</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>V for Vendetta (V for Vendetta Complete)</title>
+    <price>37.1</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Until Friday Night (The Field Party #1)</title>
+    <price>46.31</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Unbroken: A World War II Story of Survival, Resilience, and Redemption</title>
+    <price>45.95</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Twenty Yawns</title>
+    <price>22.08</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Through the Woods</title>
+    <price>25.38</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>This Is Where It Ends</title>
+    <price>27.12</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Year of Magical Thinking</title>
+    <price>43.04</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Wright Brothers</title>
+    <price>56.8</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The White Queen (The Cousins' War #1)</title>
+    <price>25.91</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Wedding Pact (The O'Malleys #2)</title>
+    <price>32.61</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Time Keeper</title>
+    <price>27.88</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Testament of Mary</title>
+    <price>52.67</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Star-Touched Queen</title>
+    <price>46.02</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Songs of the Gods</title>
+    <price>44.48</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Song of Achilles</title>
+    <price>37.4</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Rosie Project (Don Tillman #1)</title>
+    <price>54.04</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Power of Habit: Why We Do What We Do in Life and Business</title>
+    <price>16.88</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Marriage of Opposites</title>
+    <price>28.08</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Lucifer Effect: Understanding How Good People Turn Evil</title>
+    <price>10.4</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Long Haul (Diary of a Wimpy Kid #9)</title>
+    <price>44.07</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Loney</title>
+    <price>23.4</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Literature Book (Big Ideas Simply Explained)</title>
+    <price>17.43</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Last Mile (Amos Decker #2)</title>
+    <price>54.21</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Immortal Life of Henrietta Lacks</title>
+    <price>40.67</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Hidden Oracle (The Trials of Apollo #1)</title>
+    <price>52.26</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth</title>
+    <price>28.77</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Guilty (Will Robie #4)</title>
+    <price>13.82</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The First Hostage (J.B. Collins #2)</title>
+    <price>25.85</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Dovekeepers</title>
+    <price>48.78</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Darkest Lie</title>
+    <price>35.35</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Bane Chronicles (The Bane Chronicles #1-11)</title>
+    <price>44.73</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts</title>
+    <price>15.77</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The 14th Colony (Cotton Malone #11)</title>
+    <price>39.24</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>That Darkness (Gardiner and Renner #1)</title>
+    <price>13.92</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Tastes Like Fear (DI Marnie Rome #3)</title>
+    <price>10.69</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Take Me with You</title>
+    <price>45.21</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Swell: A Year of Waves</title>
+    <price>45.58</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1)</title>
+    <price>11.89</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Still Life with Bread Crumbs</title>
+    <price>26.41</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Steve Jobs</title>
+    <price>39.5</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Sorting the Beef from the Bull: The Science of Food Fraud Forensics</title>
+    <price>44.74</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Someone Like You (The Harrisons #2)</title>
+    <price>52.79</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)</title>
+    <price>35.43</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Shtum</title>
+    <price>55.84</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>See America: A Celebration of Our National Parks & Treasured Sites</title>
+    <price>48.87</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>salt.</title>
+    <price>46.78</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Robin War</title>
+    <price>47.82</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)</title>
+    <price>25.48</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Rain Fish</title>
+    <price>23.57</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Quarter Life Poetry: Poems for the Young, Broke and Hangry</title>
+    <price>50.89</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Pet Sematary</title>
+    <price>10.56</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress</title>
+    <price>52.15</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Once Was a Time</title>
+    <price>18.28</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Old School (Diary of a Wimpy Kid #10)</title>
+    <price>11.83</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon</title>
+    <price>21.95</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)</title>
+    <price>38.39</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>My Name Is Lucy Barton</title>
+    <price>41.56</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>My Mrs. Brown</title>
+    <price>24.48</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>My Kind of Crazy</title>
+    <price>40.36</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Mr. Mercedes (Bill Hodges Trilogy #1)</title>
+    <price>28.9</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>More Than Music (Chasing the Dream #1)</title>
+    <price>37.61</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Made to Stick: Why Some Ideas Survive and Others Die</title>
+    <price>38.85</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Luis Paints the World</title>
+    <price>53.95</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Luckiest Girl Alive</title>
+    <price>49.83</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Lowriders to the Center of the Earth (Lowriders in Space #2)</title>
+    <price>51.51</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Love Is a Mix Tape (Music #1)</title>
+    <price>18.03</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Looking for Lovely: Collecting the Moments that Matter</title>
+    <price>29.14</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments</title>
+    <price>46.91</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Let It Out: A Journey Through Journaling</title>
+    <price>26.79</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Lady Midnight (The Dark Artifices #1)</title>
+    <price>16.28</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes</title>
+    <price>19.55</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Island of Dragons (Unwanteds #7)</title>
+    <price>29.65</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction</title>
+    <price>25.98</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>I Am Pilgrim (Pilgrim #1)</title>
+    <price>10.6</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened</title>
+    <price>14.75</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Hush, Hush (Hush, Hush #1)</title>
+    <price>47.02</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Hold Your Breath (Search and Rescue #1)</title>
+    <price>28.82</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Hamilton: The Revolution</title>
+    <price>58.79</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Greek Mythic History</title>
+    <price>10.23</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>God: The Most Unpleasant Character in All Fiction</title>
+    <price>30.03</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Glory over Everything: Beyond The Kitchen House</title>
+    <price>45.84</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Feathers: Displays of Brilliant Plumage</title>
+    <price>49.05</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years</title>
+    <price>15.06</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Every Last Word</title>
+    <price>46.47</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Eligible (The Austen Project #4)</title>
+    <price>27.09</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>El Deafo</title>
+    <price>57.62</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Eight Hundred Grapes</title>
+    <price>14.39</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life</title>
+    <price>51.75</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Eat Fat, Get Thin</title>
+    <price>54.07</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Don't Get Caught</title>
+    <price>55.35</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Doctor Sleep (The Shining #2)</title>
+    <price>40.12</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3)</title>
+    <price>37.51</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Dear Mr. Knightley</title>
+    <price>11.21</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Daily Fantasy Sports</title>
+    <price>36.58</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Crazy Love: Overwhelmed by a Relentless God</title>
+    <price>47.72</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Cometh the Hour (The Clifton Chronicles #6)</title>
+    <price>25.01</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Code Name Verity (Code Name Verity #1)</title>
+    <price>22.13</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Clockwork Angel (The Infernal Devices #1)</title>
+    <price>44.14</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>City of Glass (The Mortal Instruments #3)</title>
+    <price>56.02</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>City of Fallen Angels (The Mortal Instruments #4)</title>
+    <price>11.23</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>City of Bones (The Mortal Instruments #1)</title>
+    <price>43.28</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>City of Ashes (The Mortal Instruments #2)</title>
+    <price>47.27</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Cell</title>
+    <price>20.29</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Catching Jordan (Hundred Oaks)</title>
+    <price>50.83</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Carry On, Warrior: Thoughts on Life Unarmed</title>
+    <price>31.85</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Carrie</title>
+    <price>46.23</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Buying In: The Secret Dialogue Between What We Buy and Who We Are</title>
+    <price>37.8</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Brain on Fire: My Month of Madness</title>
+    <price>49.32</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Batman: Europa</title>
+    <price>32.01</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Barefoot Contessa Back to Basics</title>
+    <price>28.01</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again</title>
+    <price>50.62</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Balloon Animals</title>
+    <price>17.03</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Art Ops Vol. 1</title>
+    <price>48.8</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1)</title>
+    <price>58.14</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Angels Walking (Angels Walking #1)</title>
+    <price>34.2</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Angels & Demons (Robert Langdon #1)</title>
+    <price>51.48</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>All the Light We Cannot See</title>
+    <price>29.87</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Adulthood Is a Myth: A "Sarah's Scribbles" Collection</title>
+    <price>10.9</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Abstract City</title>
+    <price>56.37</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>A Time of Torment (Charlie Parker #14)</title>
+    <price>48.35</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>A Study in Scarlet (Sherlock Holmes #1)</title>
+    <price>16.73</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer</title>
+    <price>56.48</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>A People's History of the United States</title>
+    <price>40.79</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>A Man Called Ove</title>
+    <price>39.72</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>A Distant Mirror: The Calamitous 14th Century</title>
+    <price>14.58</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>A Brush of Wings (Angels Walking #3)</title>
+    <price>55.51</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>1491: New Revelations of the Americas Before Columbus</title>
+    <price>21.8</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Three Searches, Meaning, and the Story</title>
+    <price>13.33</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Searching for Meaning in Gailana</title>
+    <price>38.73</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Rook</title>
+    <price>37.86</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>My Kitchen Year: 136 Recipes That Saved My Life</title>
+    <price>11.53</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>13 Hours: The Inside Account of What Really Happened In Benghazi</title>
+    <price>27.06</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Will You Won't You Want Me?</title>
+    <price>13.86</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Tipping Point for Planet Earth: How Close Are We to the Edge?</title>
+    <price>37.55</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Star-Touched Queen</title>
+    <price>32.3</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Silent Sister (Riley MacPherson #1)</title>
+    <price>46.29</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Midnight Watch: A Novel of the Titanic and the Californian</title>
+    <price>26.2</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Lonely City: Adventures in the Art of Being Alone</title>
+    <price>33.26</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore</title>
+    <price>59.15</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Golden Condom: And Other Essays on Love Lost and Found</title>
+    <price>39.43</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Epidemic (The Program 0.6)</title>
+    <price>14.44</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Dinner Party</title>
+    <price>56.54</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Diary of a Young Girl</title>
+    <price>59.9</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Children</title>
+    <price>11.88</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Stars Above (The Lunar Chronicles #4.5)</title>
+    <price>48.05</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas</title>
+    <price>21.21</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Raspberry Pi Electronics Projects for the Evil Genius</title>
+    <price>49.67</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two</title>
+    <price>43.14</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Psycho: Sanitarium (Psycho #1.5)</title>
+    <price>36.97</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Poisonous (Max Revere Novels #3)</title>
+    <price>26.8</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>One with You (Crossfire #5)</title>
+    <price>15.71</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>No Love Allowed (Dodge Cove #1)</title>
+    <price>54.65</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Murder at the 42nd Street Library (Raymond Ambler #1)</title>
+    <price>54.36</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Most Wanted</title>
+    <price>35.28</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Love, Lies and Spies</title>
+    <price>20.55</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>How to Speak Golf: An Illustrated Guide to Links Lingo</title>
+    <price>58.32</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Hide Away (Eve Duncan #20)</title>
+    <price>11.84</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Furiously Happy: A Funny Book About Horrible Things</title>
+    <price>41.46</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Everyday Italian: 125 Simple and Delicious Recipes</title>
+    <price>20.1</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Equal Is Unfair: America's Misguided Fight Against Income Inequality</title>
+    <price>56.86</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Eleanor & Park</title>
+    <price>56.51</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Dirty (Dive Bar #1)</title>
+    <price>40.83</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Can You Keep a Secret? (Fear Street Relaunch #4)</title>
+    <price>48.64</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Boar Island (Anna Pigeon #19)</title>
+    <price>59.48</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>A Paris Apartment</title>
+    <price>39.01</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More</title>
+    <price>38.77</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Troublemaker: Surviving Hollywood and Scientology</title>
+    <price>48.39</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Widow</title>
+    <price>27.26</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Sleep Revolution: Transforming Your Life, One Night at a Time</title>
+    <price>11.68</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Improbability of Love</title>
+    <price>59.45</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Art of Startup Fundraising</title>
+    <price>21.0</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Take Me Home Tonight (Rock Star Romance #3)</title>
+    <price>53.98</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Sleeping Giants (Themis Files #1)</title>
+    <price>48.74</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena</title>
+    <price>21.15</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Playing with Fire</title>
+    <price>13.71</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Off the Hook (Fishing for Trouble #1)</title>
+    <price>47.67</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Mothering Sunday</title>
+    <price>13.34</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Mother, Can You Not?</title>
+    <price>16.89</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>M Train</title>
+    <price>27.18</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Lilac Girls</title>
+    <price>17.28</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Lies and Other Acts of Love</title>
+    <price>45.14</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Lab Girl</title>
+    <price>40.85</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Keep Me Posted</title>
+    <price>20.46</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle</title>
+    <price>56.27</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Grey (Fifty Shades #4)</title>
+    <price>48.49</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Exit, Pursued by a Bear</title>
+    <price>51.34</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Daredevils</title>
+    <price>16.34</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Cravings: Recipes for What You Want to Eat</title>
+    <price>20.5</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Born for This: How to Find the Work You Were Meant to Do</title>
+    <price>21.59</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Arena</title>
+    <price>21.36</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Adultery</title>
+    <price>20.88</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>A Mother's Reckoning: Living in the Aftermath of Tragedy</title>
+    <price>19.53</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>A Gentleman's Position (Society of Gentlemen #3)</title>
+    <price>14.75</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>11/22/63</title>
+    <price>48.48</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works</title>
+    <price>24.57</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!</title>
+    <price>49.71</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Without Shame</title>
+    <price>48.27</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Watchmen</title>
+    <price>58.05</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Unlimited Intuition Now</title>
+    <price>58.87</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Underlying Notes</title>
+    <price>11.82</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Shack</title>
+    <price>28.03</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The New Brand You: Your New Image Makes the Sale for You</title>
+    <price>44.05</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York</title>
+    <price>12.34</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Flowers Lied</title>
+    <price>16.68</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Fabric of the Cosmos: Space, Time, and the Texture of Reality</title>
+    <price>55.91</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Book of Mormon</title>
+    <price>24.57</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Art and Science of Low Carbohydrate Living</title>
+    <price>52.98</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Alien Club</title>
+    <price>54.4</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Suzie Snowflake: One beautiful flake (a self-esteem story)</title>
+    <price>54.81</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Nap-a-Roo</title>
+    <price>25.08</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond</title>
+    <price>10.41</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Modern Day Fables</title>
+    <price>47.44</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>If I Gave You God's Phone Number....: Searching for Spirituality in America</title>
+    <price>20.91</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Fruits Basket, Vol. 9 (Fruits Basket #9)</title>
+    <price>33.95</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Dress Your Family in Corduroy and Denim</title>
+    <price>43.68</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Don't Forget Steven</title>
+    <price>33.23</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster</title>
+    <price>35.92</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Art and Fear: Observations on the Perils (and Rewards) of Artmaking</title>
+    <price>48.63</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>A Shard of Ice (The Black Symphony Saga #1)</title>
+    <price>56.63</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>A Hero's Curse (The Unseen Chronicles #1)</title>
+    <price>50.49</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>23 Degrees South: A Tropical Tale of Changing Whether...</title>
+    <price>35.79</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Zero to One: Notes on Startups, or How to Build the Future</title>
+    <price>34.06</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Why Not Me?</title>
+    <price>17.76</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>When Breath Becomes Air</title>
+    <price>39.36</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel</title>
+    <price>36.94</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Unlikely Pilgrimage of Harold Fry (Harold Fry #1)</title>
+    <price>43.62</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The New Drawing on the Right Side of the Brain</title>
+    <price>43.02</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer</title>
+    <price>28.45</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Martian (The Martian #1)</title>
+    <price>41.39</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The High Mountains of Portugal</title>
+    <price>51.15</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Grownup</title>
+    <price>35.88</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It</title>
+    <price>36.91</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>South of Sunshine</title>
+    <price>28.93</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Smarter Faster Better: The Secrets of Being Productive in Life and Business</title>
+    <price>38.89</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Silence in the Dark (Logan Point #4)</title>
+    <price>58.33</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Shadows of the Past (Logan Point #1)</title>
+    <price>39.67</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Roller Girl</title>
+    <price>14.1</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Rising Strong</title>
+    <price>21.82</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Proofs of God: Classical Arguments from Tertullian to Barth</title>
+    <price>54.21</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Please Kill Me: The Uncensored Oral History of Punk</title>
+    <price>31.19</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Out of Print: City Lights Spotlight No. 14</title>
+    <price>53.64</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>My Life Next Door (My Life Next Door )</title>
+    <price>36.39</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Miller's Valley</title>
+    <price>58.54</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Man's Search for Meaning</title>
+    <price>29.48</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations</title>
+    <price>25.06</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want</title>
+    <price>12.55</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Les Fleurs du Mal</title>
+    <price>29.04</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Left Behind (Left Behind #1)</title>
+    <price>40.72</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Kill 'Em and Leave: Searching for James Brown and the American Soul</title>
+    <price>45.05</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Kierkegaard: A Christian Missionary to Christians</title>
+    <price>47.13</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>John Vassos: Industrial Design for Modern Life</title>
+    <price>20.22</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>I'll Give You the Sun</title>
+    <price>56.48</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>I Will Find You</title>
+    <price>44.21</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Hystopia: A Novel</title>
+    <price>21.96</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Howl and Other Poems</title>
+    <price>40.45</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>History of Beauty</title>
+    <price>10.29</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back</title>
+    <price>52.86</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Future Shock (Future Shock #1)</title>
+    <price>55.65</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Ender's Game (The Ender Quintet #1)</title>
+    <price>43.64</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World</title>
+    <price>28.41</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Death by Leisure: A Cautionary Tale</title>
+    <price>37.51</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Brilliant Beacons: A History of the American Lighthouse</title>
+    <price>11.45</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Brazen: The Courage to Find the You That's Been Hiding</title>
+    <price>19.22</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Between the World and Me</title>
+    <price>56.91</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Being Mortal: Medicine and What Matters in the End</title>
+    <price>55.06</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>A Murder Over a Girl: Justice, Gender, Junior High</title>
+    <price>13.2</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>32 Yolks</title>
+    <price>53.63</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>"Most Blessed of the Patriarchs": Thomas Jefferson and the Empire of the Imagination</title>
+    <price>44.48</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life</title>
+    <price>12.08</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Wildlife of New York: A Five-Borough Coloring Book</title>
+    <price>22.14</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>What Happened on Beale Street (Secrets of the South Mysteries #2)</title>
+    <price>25.37</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain</title>
+    <price>46.33</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Under the Tuscan Sun</title>
+    <price>37.33</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Toddlers Are A**holes: It's Not Your Fault</title>
+    <price>25.55</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible</title>
+    <price>34.72</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Whale</title>
+    <price>35.96</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Story of Art</title>
+    <price>41.14</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Origin of Species</title>
+    <price>10.01</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Great Gatsby</title>
+    <price>36.05</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Good Girl</title>
+    <price>49.03</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Glass Castle</title>
+    <price>16.24</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist</title>
+    <price>39.55</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Drowning Girls</title>
+    <price>35.67</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Constant Princess (The Tudor Court #1)</title>
+    <price>16.62</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Bourne Identity (Jason Bourne #1)</title>
+    <price>42.78</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)</title>
+    <price>52.3</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Art Book</title>
+    <price>32.34</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change</title>
+    <price>33.17</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Team of Rivals: The Political Genius of Abraham Lincoln</title>
+    <price>20.12</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Steal Like an Artist: 10 Things Nobody Told You About Being Creative</title>
+    <price>20.9</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Sit, Stay, Love</title>
+    <price>20.9</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Sister Dear</title>
+    <price>40.2</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Shrunken Treasures: Literary Classics, Short, Sweet, and Silly</title>
+    <price>52.87</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Rich Dad, Poor Dad</title>
+    <price>51.74</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Raymie Nightingale</title>
+    <price>34.41</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Playing from the Heart</title>
+    <price>32.38</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Nightstruck: A Novel</title>
+    <price>50.35</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories</title>
+    <price>11.38</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Meternity</title>
+    <price>43.58</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Memoirs of a Geisha</title>
+    <price>49.67</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Like Never Before (Walker Family #2)</title>
+    <price>28.77</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Life of Pi</title>
+    <price>13.22</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Leave This Song Behind: Teen Poetry at Its Best</title>
+    <price>51.17</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>King's Folly (The Kinsman Chronicles #1)</title>
+    <price>39.61</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>John Adams</title>
+    <price>57.43</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything)</title>
+    <price>46.01</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking</title>
+    <price>28.25</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Good in Bed (Cannie Shapiro #1)</title>
+    <price>37.05</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Fruits Basket, Vol. 7 (Fruits Basket #7)</title>
+    <price>19.57</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>For the Love: Fighting for Grace in a World of Impossible Standards</title>
+    <price>45.13</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Finding God in the Ruins: How God Redeems Pain</title>
+    <price>46.64</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Every Heart a Doorway (Every Heart A Doorway #1)</title>
+    <price>12.16</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Delivering the Truth (Quaker Midwife Mystery #1)</title>
+    <price>20.89</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Counted With the Stars (Out from Egypt #1)</title>
+    <price>17.97</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Chronicles, Vol. 1</title>
+    <price>52.6</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality</title>
+    <price>25.77</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Benjamin Franklin: An American Life</title>
+    <price>48.19</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others</title>
+    <price>29.93</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>A Summer In Europe</title>
+    <price>44.34</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>A Short History of Nearly Everything</title>
+    <price>52.4</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>A Gathering of Shadows (Shades of Magic #2)</title>
+    <price>44.81</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Sound Of Love</title>
+    <price>57.84</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Rise and Fall of the Third Reich: A History of Nazi Germany</title>
+    <price>39.67</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Perks of Being a Wallflower</title>
+    <price>55.02</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Mysterious Affair at Styles (Hercule Poirot #1)</title>
+    <price>24.8</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Man Who Mistook His Wife for a Hat and Other Clinical Tales</title>
+    <price>59.45</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Makings of a Fatherless Child</title>
+    <price>31.58</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Joy of Cooking</title>
+    <price>43.27</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Invention of Wings</title>
+    <price>37.34</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Hobbit (Middle-Earth Universe)</title>
+    <price>17.8</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Great Railway Bazaar</title>
+    <price>30.54</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Golden Compass (His Dark Materials #1)</title>
+    <price>18.77</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The God Delusion</title>
+    <price>46.85</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Girl You Left Behind (The Girl You Left Behind #1)</title>
+    <price>15.79</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Fellowship of the Ring (The Lord of the Rings #1)</title>
+    <price>10.27</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1)</title>
+    <price>15.42</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Barefoot Contessa Cookbook</title>
+    <price>59.92</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Tell the Wolves I'm Home</title>
+    <price>50.96</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman</title>
+    <price>30.6</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Pride and Prejudice</title>
+    <price>19.27</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Musicophilia: Tales of Music and the Brain</title>
+    <price>46.58</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Mere Christianity</title>
+    <price>48.51</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Me Before You (Me Before You #1)</title>
+    <price>19.02</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>In the Woods (Dublin Murder Squad #1)</title>
+    <price>38.38</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>In Cold Blood</title>
+    <price>49.98</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>How to Stop Worrying and Start Living</title>
+    <price>46.49</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Give It Back</title>
+    <price>18.32</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Girl, Interrupted</title>
+    <price>42.14</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Fun Home: A Family Tragicomic</title>
+    <price>56.59</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Fruits Basket, Vol. 6 (Fruits Basket #6)</title>
+    <price>20.96</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Deception Point</title>
+    <price>40.32</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Death Note, Vol. 6: Give-and-Take (Death Note #6)</title>
+    <price>36.39</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Catherine the Great: Portrait of a Woman</title>
+    <price>58.55</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Better Homes and Gardens New Cook Book</title>
+    <price>39.61</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>An Unquiet Mind: A Memoir of Moods and Madness</title>
+    <price>21.3</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>A Year in Provence (Provence #1)</title>
+    <price>56.88</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>World Without End (The Pillars of the Earth #2)</title>
+    <price>32.97</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Will Grayson, Will Grayson (Will Grayson, Will Grayson)</title>
+    <price>47.31</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis</title>
+    <price>48.67</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Where She Went (If I Stay #2)</title>
+    <price>41.73</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>What If?: Serious Scientific Answers to Absurd Hypothetical Questions</title>
+    <price>53.68</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Two Summers</title>
+    <price>14.64</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>This Is Your Brain on Music: The Science of a Human Obsession</title>
+    <price>38.4</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Secret Garden</title>
+    <price>15.08</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Raven King (The Raven Cycle #4)</title>
+    <price>30.57</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Raven Boys (The Raven Cycle #1)</title>
+    <price>57.74</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Power Greens Cookbook: 140 Delicious Superfood Recipes</title>
+    <price>11.05</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Metamorphosis</title>
+    <price>28.58</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Mathews Men: Seven Brothers and the War Against Hitler's U-boats</title>
+    <price>42.91</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Little Paris Bookshop</title>
+    <price>24.73</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Hiding Place</title>
+    <price>55.91</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Grand Design</title>
+    <price>13.76</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Firm</title>
+    <price>45.56</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Fault in Our Stars</title>
+    <price>47.22</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The False Prince (The Ascendance Trilogy #1)</title>
+    <price>56.0</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Expatriates</title>
+    <price>44.58</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Dream Thieves (The Raven Cycle #2)</title>
+    <price>34.5</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Darkest Corners</title>
+    <price>11.33</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Crossover</title>
+    <price>38.77</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The 5th Wave (The 5th Wave #1)</title>
+    <price>11.83</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Tell the Wind and Fire</title>
+    <price>45.51</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Tell Me Three Things</title>
+    <price>41.81</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut</title>
+    <price>25.15</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Siddhartha</title>
+    <price>34.22</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Shiver (The Wolves of Mercy Falls #1)</title>
+    <price>16.23</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Remember Me?</title>
+    <price>11.48</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Red Dragon (Hannibal Lecter #1)</title>
+    <price>23.37</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Peak: Secrets from the New Science of Expertise</title>
+    <price>16.28</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>My Mother Was Nuts</title>
+    <price>31.63</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens</title>
+    <price>24.91</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Maybe Something Beautiful: How Art Transformed a Neighborhood</title>
+    <price>22.54</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Lola and the Boy Next Door (Anna and the French Kiss #2)</title>
+    <price>23.63</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Logan Kade (Fallen Crest High #5.5)</title>
+    <price>13.12</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Last One Home (New Beginnings #1)</title>
+    <price>59.98</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Killing Floor (Jack Reacher #1)</title>
+    <price>31.49</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Kill the Boy Band</title>
+    <price>15.52</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Isla and the Happily Ever After (Anna and the French Kiss #3)</title>
+    <price>48.13</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>If I Stay (If I Stay #1)</title>
+    <price>38.13</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1)</title>
+    <price>36.55</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Harry Potter and the Deathly Hallows (Harry Potter #7)</title>
+    <price>23.32</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Fruits Basket, Vol. 5 (Fruits Basket #5)</title>
+    <price>16.33</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Foundation (Foundation (Publication Order) #1)</title>
+    <price>32.42</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Fool Me Once</title>
+    <price>16.96</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Find Her (Detective D.D. Warren #8)</title>
+    <price>22.37</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Evicted: Poverty and Profit in the American City</title>
+    <price>42.27</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Drama</title>
+    <price>38.7</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Dracula the Un-Dead</title>
+    <price>35.63</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Digital Fortress</title>
+    <price>58.0</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Death Note, Vol. 5: Whiteout (Death Note #5)</title>
+    <price>52.41</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Data, A Love Story: How I Gamed Online Dating to Meet My Match</title>
+    <price>32.35</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Critique of Pure Reason</title>
+    <price>20.75</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Booked</title>
+    <price>17.49</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Blue Lily, Lily Blue (The Raven Cycle #3)</title>
+    <price>34.13</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Approval Junkie: Adventures in Caring Too Much</title>
+    <price>58.81</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>An Abundance of Katherines</title>
+    <price>10.0</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>America's War for the Greater Middle East: A Military History</title>
+    <price>51.22</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Alight (The Generations Trilogy #2)</title>
+    <price>58.59</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>A Girl's Guide to Moving On (New Beginnings #2)</title>
+    <price>31.3</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>A Game of Thrones (A Song of Ice and Fire #1)</title>
+    <price>46.42</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>A Feast for Crows (A Song of Ice and Fire #4)</title>
+    <price>17.21</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>A Clash of Kings (A Song of Ice and Fire #2)</title>
+    <price>10.79</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Vogue Colors A to Z: A Fashion Coloring Book</title>
+    <price>52.35</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Shining (The Shining #1)</title>
+    <price>27.88</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Pilgrim's Progress</title>
+    <price>50.26</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Perfect Play (Play by Play #1)</title>
+    <price>59.99</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Passion of Dolssa</title>
+    <price>28.32</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe</title>
+    <price>38.71</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Hunger Games (The Hunger Games #1)</title>
+    <price>29.85</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Hound of the Baskervilles (Sherlock Holmes #5)</title>
+    <price>14.82</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Gunning of America: Business and the Making of American Gun Culture</title>
+    <price>16.81</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Geography of Bliss: One Grump's Search for the Happiest Places in the World</title>
+    <price>28.23</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Demonists (Demonist #1)</title>
+    <price>52.11</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)</title>
+    <price>27.88</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Bone Hunters (Lexy Vaughan & Steven Macaulay #2)</title>
+    <price>59.71</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Beast (Black Dagger Brotherhood #14)</title>
+    <price>46.08</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Some Women</title>
+    <price>13.73</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Shopaholic Ties the Knot (Shopaholic #3)</title>
+    <price>48.39</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Paper and Fire (The Great Library #2)</title>
+    <price>49.45</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Outlander (Outlander #1)</title>
+    <price>19.67</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors</title>
+    <price>12.36</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>No One Here Gets Out Alive</title>
+    <price>20.02</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Night Shift (Night Shift #1-20)</title>
+    <price>12.75</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Needful Things</title>
+    <price>47.51</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Mockingjay (The Hunger Games #3)</title>
+    <price>20.44</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Misery</title>
+    <price>34.79</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Little Women (Little Women #1)</title>
+    <price>28.07</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>It</title>
+    <price>25.01</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Harry Potter and the Sorcerer's Stone (Harry Potter #1)</title>
+    <price>13.9</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Harry Potter and the Prisoner of Azkaban (Harry Potter #3)</title>
+    <price>24.17</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Harry Potter and the Order of the Phoenix (Harry Potter #5)</title>
+    <price>31.63</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Harry Potter and the Half-Blood Prince (Harry Potter #6)</title>
+    <price>48.75</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Harry Potter and the Chamber of Secrets (Harry Potter #2)</title>
+    <price>14.74</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Gone with the Wind</title>
+    <price>32.49</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>God Is Not Great: How Religion Poisons Everything</title>
+    <price>27.8</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Girl With a Pearl Earring</title>
+    <price>26.77</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Fruits Basket, Vol. 4 (Fruits Basket #4)</title>
+    <price>50.44</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Far From True (Promise Falls Trilogy #2)</title>
+    <price>34.93</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Dark Lover (Black Dagger Brotherhood #1)</title>
+    <price>12.87</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Confessions of a Shopaholic (Shopaholic #1)</title>
+    <price>48.94</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Changing the Game (Play by Play #2)</title>
+    <price>13.38</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Candide</title>
+    <price>58.63</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Can You Keep a Secret?</title>
+    <price>21.94</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Atlas Shrugged</title>
+    <price>26.58</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Animal Farm</title>
+    <price>57.22</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>A Walk to Remember</title>
+    <price>56.43</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>A New Earth: Awakening to Your Life's Purpose</title>
+    <price>55.65</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam</title>
+    <price>27.62</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>'Salem's Lot</title>
+    <price>49.56</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Zero History (Blue Ant #3)</title>
+    <price>34.77</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Wuthering Heights</title>
+    <price>17.73</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>World War Z: An Oral History of the Zombie War</title>
+    <price>21.8</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Wild: From Lost to Found on the Pacific Crest Trail</title>
+    <price>46.02</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Where'd You Go, Bernadette</title>
+    <price>18.13</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>When You Are Engulfed in Flames</title>
+    <price>30.89</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America</title>
+    <price>31.95</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>We Are All Completely Beside Ourselves</title>
+    <price>24.04</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Walk the Edge (Thunder Road #2)</title>
+    <price>32.36</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Voyager (Outlander #3)</title>
+    <price>21.07</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination</title>
+    <price>50.66</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Vegan Vegetarian Omnivore: Dinner for Everyone at the Table</title>
+    <price>13.66</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Unstuffed: Decluttering Your Home, Mind, and Soul</title>
+    <price>58.09</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Under the Banner of Heaven: A Story of Violent Faith</title>
+    <price>30.0</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Two Boys Kissing</title>
+    <price>32.74</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Twilight (Twilight #1)</title>
+    <price>41.93</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Twenties Girl</title>
+    <price>42.8</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland</title>
+    <price>53.51</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Three-Martini Lunch</title>
+    <price>23.21</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Thinking, Fast and Slow</title>
+    <price>21.14</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Wild Robot</title>
+    <price>56.07</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)</title>
+    <price>14.41</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Undomestic Goddess</title>
+    <price>45.75</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Travelers</title>
+    <price>15.77</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Tipping Point: How Little Things Can Make a Big Difference</title>
+    <price>10.02</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Thing About Jellyfish</title>
+    <price>48.77</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Stand</title>
+    <price>57.86</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Smitten Kitchen Cookbook</title>
+    <price>23.59</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Silkworm (Cormoran Strike #2)</title>
+    <price>23.05</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)</title>
+    <price>55.55</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Rose & the Dagger (The Wrath and the Dawn #2)</title>
+    <price>58.64</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)</title>
+    <price>23.21</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Rise of Theodore Roosevelt (Theodore Roosevelt #1)</title>
+    <price>42.57</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)</title>
+    <price>10.92</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Rest Is Noise: Listening to the Twentieth Century</title>
+    <price>34.77</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Red Tent</title>
+    <price>35.66</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Purpose Driven Life: What on Earth Am I Here for?</title>
+    <price>37.19</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Purest Hook (Second Circle Tattoos #3)</title>
+    <price>12.25</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Picture of Dorian Gray</title>
+    <price>29.7</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Paris Wife</title>
+    <price>36.8</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Obsession</title>
+    <price>45.43</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Nightingale</title>
+    <price>26.26</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The New Guy (and Other Senior Year Distractions)</title>
+    <price>44.92</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Nanny Diaries (Nanny #1)</title>
+    <price>52.53</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Name of God is Mercy</title>
+    <price>37.25</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Maze Runner (The Maze Runner #1)</title>
+    <price>20.93</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Lover's Dictionary</title>
+    <price>58.09</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Lonely Ones</title>
+    <price>43.59</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses</title>
+    <price>33.92</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Last Painting of Sara de Vos</title>
+    <price>55.55</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Land of 10,000 Madonnas</title>
+    <price>29.64</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Infinities</title>
+    <price>27.41</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Husband's Secret</title>
+    <price>52.51</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1)</title>
+    <price>47.8</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Guns of August</title>
+    <price>14.54</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Guernsey Literary and Potato Peel Pie Society</title>
+    <price>49.53</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Goldfinch</title>
+    <price>43.58</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Giver (The Giver Quartet #1)</title>
+    <price>12.3</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Girl with All the Gifts</title>
+    <price>49.47</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Girl Who Played with Fire (Millennium Trilogy #2)</title>
+    <price>22.14</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3)</title>
+    <price>57.48</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Exiled</title>
+    <price>43.45</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The End of Faith: Religion, Terror, and the Future of Reason</title>
+    <price>22.13</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory</title>
+    <price>13.03</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements</title>
+    <price>57.35</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Devil Wears Prada (The Devil Wears Prada #1)</title>
+    <price>44.29</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Demon-Haunted World: Science as a Candle in the Dark</title>
+    <price>52.25</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Day the Crayons Came Home (Crayons)</title>
+    <price>26.33</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Da Vinci Code (Robert Langdon #2)</title>
+    <price>22.96</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Cuckoo's Calling (Cormoran Strike #1)</title>
+    <price>19.21</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition])</title>
+    <price>26.78</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Complete Poems</title>
+    <price>41.32</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Catcher in the Rye</title>
+    <price>24.55</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Cat in the Hat (Beginner Books B-1)</title>
+    <price>16.26</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Case for Christ (Cases for Christianity)</title>
+    <price>47.84</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Book Thief</title>
+    <price>53.49</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Book of Basketball: The NBA According to The Sports Guy</title>
+    <price>44.84</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Blind Side: Evolution of a Game</title>
+    <price>53.71</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Autobiography of Malcolm X</title>
+    <price>23.43</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution</title>
+    <price>34.32</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Art of Fielding</title>
+    <price>22.1</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character</title>
+    <price>25.83</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Stiff: The Curious Lives of Human Cadavers</title>
+    <price>36.74</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Spilled Milk: Based on a True Story</title>
+    <price>49.51</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Something Borrowed (Darcy & Rachel #1)</title>
+    <price>48.96</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Something Blue (Darcy & Rachel #2)</title>
+    <price>54.62</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Soldier (Talon #3)</title>
+    <price>24.72</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Shopaholic & Baby (Shopaholic #5)</title>
+    <price>46.45</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Seven Days in the Art World</title>
+    <price>52.33</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Seven Brief Lessons on Physics</title>
+    <price>30.6</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Scarlet (The Lunar Chronicles #2)</title>
+    <price>14.57</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Sarah's Key</title>
+    <price>46.29</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Saga, Volume 3 (Saga (Collected Editions) #3)</title>
+    <price>21.57</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Running with Scissors</title>
+    <price>12.91</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Rogue Lawyer (Rogue Lawyer #1)</title>
+    <price>50.11</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars</title>
+    <price>41.67</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Rework</title>
+    <price>44.88</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Reservations for Two</title>
+    <price>11.1</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Red: The True Story of Red Riding Hood</title>
+    <price>28.54</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Ready Player One</title>
+    <price>19.07</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Quiet: The Power of Introverts in a World That Can't Stop Talking</title>
+    <price>43.55</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Prodigy: The Graphic Novel (Legend: The Graphic Novel #2)</title>
+    <price>43.63</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Persepolis: The Story of a Childhood (Persepolis #1-2)</title>
+    <price>39.13</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Packing for Mars: The Curious Science of Life in the Void</title>
+    <price>56.68</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Outliers: The Story of Success</title>
+    <price>14.16</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Original Fake</title>
+    <price>31.45</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Orange Is the New Black</title>
+    <price>24.61</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>One for the Money (Stephanie Plum #1)</title>
+    <price>32.87</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Notes from a Small Island (Notes From a Small Island #1)</title>
+    <price>40.17</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Night (The Night Trilogy #1)</title>
+    <price>13.51</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Neither Here nor There: Travels in Europe</title>
+    <price>38.95</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Naked</title>
+    <price>31.69</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Morning Star (Red Rising #3)</title>
+    <price>29.4</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing</title>
+    <price>57.83</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Midnight Riot (Peter Grant/ Rivers of London - books #1)</title>
+    <price>55.46</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Me Talk Pretty One Day</title>
+    <price>57.6</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Manuscript Found in Accra</title>
+    <price>34.98</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Lust & Wonder</title>
+    <price>11.87</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Lila (Gilead #3)</title>
+    <price>12.47</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)</title>
+    <price>33.26</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Life Without a Recipe</title>
+    <price>59.04</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Life After Life</title>
+    <price>26.13</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Letter to a Christian Nation</title>
+    <price>22.2</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Let's Pretend This Never Happened: A Mostly True Memoir</title>
+    <price>45.11</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Legend (Legend #1)</title>
+    <price>43.69</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Lean In: Women, Work, and the Will to Lead</title>
+    <price>25.02</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Lamb: The Gospel According to Biff, Christ's Childhood Pal</title>
+    <price>55.5</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Lady Renegades (Rebel Belle #3)</title>
+    <price>53.04</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Jurassic Park (Jurassic Park #1)</title>
+    <price>44.97</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond</title>
+    <price>42.38</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Is Everyone Hanging Out Without Me? (And Other Concerns)</title>
+    <price>20.11</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Into the Wild</title>
+    <price>56.7</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Inferno (Robert Langdon #4)</title>
+    <price>41.0</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin</title>
+    <price>28.85</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>If I Run (If I Run #1)</title>
+    <price>49.97</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>I've Got Your Number</title>
+    <price>19.69</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban</title>
+    <price>28.88</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World</title>
+    <price>33.14</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth</title>
+    <price>43.7</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>House of Leaves</title>
+    <price>54.89</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Horrible Bear!</title>
+    <price>37.52</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Holidays on Ice</title>
+    <price>51.07</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Heir to the Sky</title>
+    <price>44.07</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Green Eggs and Ham (Beginner Books B-16)</title>
+    <price>10.79</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Grayson, Vol 3: Nemesis (Grayson #3)</title>
+    <price>42.72</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Gratitude</title>
+    <price>26.66</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Gone Girl</title>
+    <price>37.6</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Golden (Heart of Dread #3)</title>
+    <price>42.21</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Girl in the Blue Coat</title>
+    <price>46.83</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Fruits Basket, Vol. 3 (Fruits Basket #3)</title>
+    <price>45.17</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Friday Night Lights: A Town, a Team, and a Dream</title>
+    <price>51.22</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Fire Bound (Sea Haven/Sisters of the Heart #5)</title>
+    <price>21.28</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Fifty Shades Freed (Fifty Shades #3)</title>
+    <price>15.36</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Fellside</title>
+    <price>38.62</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Extreme Prey (Lucas Davenport #26)</title>
+    <price>25.4</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Eragon (The Inheritance Cycle #1)</title>
+    <price>43.87</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Eclipse (Twilight #3)</title>
+    <price>18.74</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Dune (Dune #1)</title>
+    <price>54.86</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Dracula</title>
+    <price>52.62</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Do Androids Dream of Electric Sheep? (Blade Runner #1)</title>
+    <price>51.48</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Disrupted: My Misadventure in the Start-Up Bubble</title>
+    <price>15.28</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Dead Wake: The Last Crossing of the Lusitania</title>
+    <price>39.24</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>David and Goliath: Underdogs, Misfits, and the Art of Battling Giants</title>
+    <price>17.81</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Darkfever (Fever #1)</title>
+    <price>56.02</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Dark Places</title>
+    <price>23.9</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Crazy Rich Asians (Crazy Rich Asians #1)</title>
+    <price>49.13</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Counting Thyme</title>
+    <price>10.62</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Cosmos</title>
+    <price>36.17</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Civilization and Its Discontents</title>
+    <price>59.95</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Cinder (The Lunar Chronicles #1)</title>
+    <price>26.09</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Catastrophic Happiness: Finding Joy in Childhood's Messy Years</title>
+    <price>37.35</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Career of Evil (Cormoran Strike #3)</title>
+    <price>24.72</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Breaking Dawn (Twilight #4)</title>
+    <price>35.28</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Brave Enough</title>
+    <price>51.32</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Boy Meets Boy</title>
+    <price>21.12</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen</title>
+    <price>27.35</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Blink: The Power of Thinking Without Thinking</title>
+    <price>21.74</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Black Flags: The Rise of ISIS</title>
+    <price>40.87</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Black Butler, Vol. 1 (Black Butler #1)</title>
+    <price>49.31</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Big Little Lies</title>
+    <price>22.11</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Between Shades of Gray</title>
+    <price>20.79</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Best of My Love (Fool's Gold #20)</title>
+    <price>27.41</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Beowulf</title>
+    <price>38.35</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Beautiful Creatures (Caster Chronicles #1)</title>
+    <price>21.55</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Awkward</title>
+    <price>38.02</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Ash</title>
+    <price>22.06</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Are We There Yet?</title>
+    <price>10.66</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Are We Smart Enough to Know How Smart Animals Are?</title>
+    <price>56.58</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Annie on My Mind</title>
+    <price>36.83</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>And Then There Were None</title>
+    <price>35.01</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>A Walk in the Woods: Rediscovering America on the Appalachian Trail</title>
+    <price>30.48</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>A Visit from the Goon Squad</title>
+    <price>14.08</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>A Storm of Swords (A Song of Ice and Fire #3)</title>
+    <price>31.22</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>A Heartbreaking Work of Staggering Genius</title>
+    <price>54.29</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>8 Keys to Mental Health Through Exercise</title>
+    <price>31.04</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>#GIRLBOSS</title>
+    <price>50.96</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Suffragettes (Little Black Classics, #96)</title>
+    <price>11.89</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Sense of an Ending</title>
+    <price>31.38</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)</title>
+    <price>54.81</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Course of Love</title>
+    <price>16.78</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Sugar Rush (Offensive Line #2)</title>
+    <price>24.42</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Saga, Volume 2 (Saga (Collected Editions) #2)</title>
+    <price>11.75</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Run, Spot, Run: The Ethics of Keeping Pets</title>
+    <price>20.02</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>New Moon (Twilight #2)</title>
+    <price>12.86</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Life</title>
+    <price>31.58</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Kindle Paperwhite User's Guide</title>
+    <price>34.0</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>H is for Hawk</title>
+    <price>57.42</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Girl Online On Tour (Girl Online #2)</title>
+    <price>53.47</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Fruits Basket, Vol. 2 (Fruits Basket #2)</title>
+    <price>11.64</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book)</title>
+    <price>52.88</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)</title>
+    <price>18.51</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>While You Were Mine</title>
+    <price>41.32</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Where Lightning Strikes (Bleeding Stars #3)</title>
+    <price>39.77</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>When I'm Gone</title>
+    <price>51.96</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Ways of Seeing</title>
+    <price>39.51</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Vampire Knight, Vol. 1 (Vampire Knight #1)</title>
+    <price>15.4</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Vampire Girl (Vampire Girl #1)</title>
+    <price>53.82</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Twenty Love Poems and a Song of Despair</title>
+    <price>30.95</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Travels with Charley: In Search of America</title>
+    <price>57.82</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Three Wishes (River of Time: California #1)</title>
+    <price>44.18</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>This One Moment (Pushing Limits #1)</title>
+    <price>48.71</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Zombie Room</title>
+    <price>19.69</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)</title>
+    <price>36.52</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Tumor</title>
+    <price>41.56</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Story of Hong Gildong</title>
+    <price>43.19</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Silent Wife</title>
+    <price>12.34</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Silent Twin (Detective Jennifer Knight #3)</title>
+    <price>36.25</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Selfish Gene</title>
+    <price>29.45</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Secret Healer</title>
+    <price>34.56</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)</title>
+    <price>54.12</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Republic</title>
+    <price>33.78</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Odyssey</title>
+    <price>29.64</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)</title>
+    <price>57.7</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Nicomachean Ethics</title>
+    <price>36.34</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Name of the Wind (The Kingkiller Chronicle #1)</title>
+    <price>50.59</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Mirror & the Maze (The Wrath and the Dawn #1.5)</title>
+    <price>29.38</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Little Prince</title>
+    <price>45.42</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Light of the Fireflies</title>
+    <price>54.43</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Last Girl (The Dominion Trilogy #1)</title>
+    <price>36.26</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>The Iliad</title>
+    <price>16.16</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Hook Up (Game On #1)</title>
+    <price>36.29</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Haters</title>
+    <price>27.89</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Girl You Lost</title>
+    <price>12.29</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>The Girl In The Ice (DCI Erika Foster #1)</title>
+    <price>15.85</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The End of the Jesus Era (An Investigation #1)</title>
+    <price>14.4</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>The Edge of Reason (Bridget Jones #2)</title>
+    <price>19.18</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>The Complete Maus (Maus #1-2)</title>
+    <price>10.64</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Communist Manifesto</title>
+    <price>14.76</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Bhagavad Gita</title>
+    <price>57.49</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Bette Davis Club</title>
+    <price>30.66</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>The Art of Not Breathing</title>
+    <price>40.83</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Taking Shots (Assassins #1)</title>
+    <price>18.88</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Starlark</title>
+    <price>25.83</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Skip Beat!, Vol. 01 (Skip Beat! #1)</title>
+    <price>42.12</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Sister Sable (The Mad Queen #1)</title>
+    <price>13.33</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Shatter Me (Shatter Me #1)</title>
+    <price>42.4</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Shameless</title>
+    <price>58.35</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Shadow Rites (Jane Yellowrock #10)</title>
+    <price>21.72</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Settling the Score (The Summer Games #1)</title>
+    <price>44.91</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Sense and Sensibility</title>
+    <price>37.46</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Saga, Volume 1 (Saga (Collected Editions) #1)</title>
+    <price>28.48</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Rhythm, Chord & Malykhin</title>
+    <price>28.34</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)</title>
+    <price>46.96</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Paradise Lost (Paradise #1)</title>
+    <price>24.96</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Paper Girls, Vol. 1 (Paper Girls #1-5)</title>
+    <price>21.71</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)</title>
+    <price>29.87</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Origins (Alphas 0.5)</title>
+    <price>28.99</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>One Second (Seven #7)</title>
+    <price>52.94</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>On the Road (Duluoz Legend)</title>
+    <price>32.36</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Old Records Never Die: One Man's Quest for His Vinyl and His Past</title>
+    <price>55.66</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Off Sides (Off #1)</title>
+    <price>39.45</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Of Mice and Men</title>
+    <price>47.11</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Myriad (Prentor #1)</title>
+    <price>58.75</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>My Perfect Mistake (Over the Top #1)</title>
+    <price>38.92</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)</title>
+    <price>39.39</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Meditations</title>
+    <price>25.89</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Matilda</title>
+    <price>28.34</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Lost Among the Living</title>
+    <price>27.7</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Lord of the Flies</title>
+    <price>24.89</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Listen to Me (Fusion #1)</title>
+    <price>58.99</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Kitchens of the Great Midwest</title>
+    <price>57.2</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Jane Eyre</title>
+    <price>38.43</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Imperfect Harmony</title>
+    <price>34.74</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Icing (Aces Hockey #2)</title>
+    <price>40.44</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)</title>
+    <price>45.24</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Having the Barbarian's Baby (Ice Planet Barbarians #7.5)</title>
+    <price>34.96</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Giant Days, Vol. 1 (Giant Days #1-4)</title>
+    <price>56.76</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Fruits Basket, Vol. 1 (Fruits Basket #1)</title>
+    <price>40.28</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Frankenstein</title>
+    <price>38.0</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Forever Rockers (The Rocker #12)</title>
+    <price>28.8</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Fighting Fate (Fighting #6)</title>
+    <price>39.24</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Emma</title>
+    <price>32.93</price>
+    <availability>Disponible</availability>
+    <rating>2</rating>
+  </book>
+  <book>
+    <title>Eat, Pray, Love</title>
+    <price>51.32</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Deep Under (Walker Security #1)</title>
+    <price>47.09</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Choosing Our Religion: The Spiritual Lives of America's Nones</title>
+    <price>28.42</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Charlie and the Chocolate Factory (Charlie Bucket #1)</title>
+    <price>22.85</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Charity's Cross (Charles Towne Belles #4)</title>
+    <price>41.24</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Bright Lines</title>
+    <price>39.07</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Bridget Jones's Diary (Bridget Jones #1)</title>
+    <price>29.82</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Bounty (Colorado Mountain #7)</title>
+    <price>37.26</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>Blood Defense (Samantha Brinkman #1)</title>
+    <price>20.3</price>
+    <availability>Disponible</availability>
+    <rating>3</rating>
+  </book>
+  <book>
+    <title>Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)</title>
+    <price>34.65</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>Beyond Good and Evil</title>
+    <price>43.38</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Alice in Wonderland (Alice's Adventures in Wonderland #1)</title>
+    <price>55.53</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)</title>
+    <price>57.06</price>
+    <availability>Disponible</availability>
+    <rating>4</rating>
+  </book>
+  <book>
+    <title>A Spy's Devotion (The Regency Spies of London #1)</title>
+    <price>16.97</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+  <book>
+    <title>1st to Die (Women's Murder Club #1)</title>
+    <price>53.98</price>
+    <availability>Disponible</availability>
+    <rating>1</rating>
+  </book>
+  <book>
+    <title>1,000 Places to See Before You Die</title>
+    <price>26.08</price>
+    <availability>Disponible</availability>
+    <rating>5</rating>
+  </book>
+</books>

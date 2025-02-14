@@ -13,14 +13,13 @@ class BooksSpider(scrapy.Spider):
 
         scraped_count = self.crawler.stats.get_value("item_scraped_count", 0)
         if scraped_count >= self.max_items:
-            self.logger.info(f"✅ Limite atteinte ({self.max_items} éléments), arrêt du scraping.")
+            self.logger.info(f"Limite atteinte ({self.max_items} éléments), arrêt du scraping.")
             return
 
         for book in response.css("article.product_pod"):
             scraped_count = self.crawler.stats.get_value("item_scraped_count", 0)
             if scraped_count >= self.max_items:
                 return
-
             yield {
                 "title": book.css("h3 a::attr(title)").get(),
                 "price": book.css("p.price_color::text").get(),

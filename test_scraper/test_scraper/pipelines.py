@@ -107,7 +107,7 @@ class SQLitePipeline:
 class MongoDBPipeline:
     def open_spider(self, spider):
         self.client = pymongo.MongoClient("mongodb://localhost:27017/")
-        self.db = self.client["books_data"]
+        self.db = self.client["books_db_one"]
         self.collection = self.db["books"]
 
     def process_item(self, item, spider):
