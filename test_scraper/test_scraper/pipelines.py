@@ -3,12 +3,13 @@
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 
-
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
 
 import sqlite3
 import pymongo
+import csv
+
 
 class TestScraperPipeline:
     def process_item(self, item, spider):
@@ -31,6 +32,52 @@ class BooksPipeline:
             item["availability"] = "Rupture de stock"
         item["rating"] = self.rating_map.get(item["rating"], 0)
         return item
+
+class CSVPipeline:
+    def open_spider(self, spider):
+        self.file = open("books.csv", "w", newline="", encoding="utf-8")
+        self.writer = csv.writer(self.file, quoting=csv.QUOTE_MINIMAL)
+        self.writer.writerow(["title", "price", "availability", "rating"])
+
+    def process_item(self, item, spider):
+        self.writer.writerow([
+            item["title"],
+            item["price"],
+            item["availability"],
+            item["rating"]
+        ])
+        return item
+
+    def close_spider(self, spider):
+        self.file.close()
+class JSONPipeline:
+    def open_spider(self, spider):
+        self.file = open("books.json", "w")
+        self.file.write("[\n")
+
+    def process_item(self, item, spider):
+        self.file.write(f"{dict(item)},\n")
+        return item
+
+    def close_spider(self, spider):
+        self.file.write("]\n")
+        self.file.close()
+
+class XMLPipeline:
+    def open_spider(self, spider):
+        self.file = open("books.xml", "w")
+        self.file.write("<books>\n")
+
+    def process_item(self, item, spider):
+        self.file.write(f"  <book>\n")
+        for key, value in item.items():
+            self.file.write(f"    <{key}>{value}</{key}>\n")
+        self.file.write(f"  </book>\n")
+        return item
+
+    def close_spider(self, spider):
+        self.file.write("</books>\n")
+        self.file.close()
 
 class SQLitePipeline:
     def open_spider(self, spider):
@@ -60,7 +107,7 @@ class SQLitePipeline:
 class MongoDBPipeline:
     def open_spider(self, spider):
         self.client = pymongo.MongoClient("mongodb://localhost:27017/")
-        self.db = self.client["scrapy_data"]
+        self.db = self.client["books_data"]
         self.collection = self.db["books"]
 
     def process_item(self, item, spider):
