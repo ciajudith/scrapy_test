@@ -1,0 +1,12 @@
+__pycache__
+app.egg-info
+*.pyc
+.mypy_cache
+.coverage
+htmlcov
+.cache
+.venv
+git rm --cached -r __pycache__
+.env
+cookies.json
+jobs*.csv
